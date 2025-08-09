@@ -9,11 +9,6 @@ console.log(names);
 names.push("neha");
 console.log(names);
 var name = ["Dylan"];
-// name.push("Jack");   // can't push the value beacuse apply a readonly
-//// tuples
-var tup = [1, 2];
-console.log(tup);
-var tupl = [1, "aditya"];
-console.log(tupl);
-var tuple = ["aditya", 23];
-console.log(tuple);
+
+
+
